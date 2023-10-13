@@ -1,0 +1,8 @@
+{
+  "name": "manifest",
+  "short_name": "manifest",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
