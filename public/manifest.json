@@ -1,6 +1,6 @@
 {
-  "name": "manifest",
-  "short_name": "manifest",
+  "name": "links",
+  "short_name": "links",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
